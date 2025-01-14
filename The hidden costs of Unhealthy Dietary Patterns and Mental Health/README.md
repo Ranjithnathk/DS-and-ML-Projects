@@ -1,24 +1,24 @@
-# Title : The hidden costs of Unhealthy Dietary Patterns and Mental Health
+## Title : The hidden costs of Unhealthy Dietary Patterns and Mental Health
 
-## Scientific Conclusion
+### Scientific Conclusion
 
-### Objective:
+#### Objective:
 Investigated the relationship between sugar intake (Sugar_2021) and anxiety disorders prevalence (AnxietyDisorders_2021) using Bayesian regression.
 
-### Key Findings:
+#### Key Findings:
 Positive association observed with a small effect size (β1\beta_1β1: 0.005, 94% HDI: [0.0037, 0.0063]). Increased sugar intake is linked to higher anxiety prevalence.
 
-### Implications:
+#### Implications:
 Supports existing research suggesting dietary sugar influences mental health. Findings are credible despite the small magnitude of the effect.
 
-### Limitations:
+#### Limitations:
 Did not account for other factors like physical activity, socioeconomic status, or genetics. Assumes linearity and is limited by the available predictors.
 
-### Recommendations:
+#### Recommendations:
 Encourage public health strategies to reduce sugar consumption. Future studies should incorporate additional variables and test for interactions.
 
 
-## Actionable insights
+### Actionable insights
 In 2020, during Covid a dataset has been collected where people from different countries involved themselves in various activities to overcome the personality changes they faced during the hard time.
 - Engaged in religious/spiritual activities
 - Improved healthy lifestyle behaviors
