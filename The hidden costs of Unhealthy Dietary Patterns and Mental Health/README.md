@@ -1,8 +1,8 @@
 ## Title : The hidden costs of Unhealthy Dietary Patterns and Mental Health
 
-### Scientific Conclusion
+### <ins>Scientific Conclusion</ins>
 
-#### <ins>Objective</ins>:
+#### Objective:
 Investigated the relationship between sugar intake (Sugar_2021) and anxiety disorders prevalence (AnxietyDisorders_2021) using Bayesian regression.
 
 #### Key Findings:
@@ -18,7 +18,7 @@ Did not account for other factors like physical activity, socioeconomic status, 
 Encourage public health strategies to reduce sugar consumption. Future studies should incorporate additional variables and test for interactions.
 
 
-### Actionable insights
+### <ins>Actionable insights</ins>
 In 2020, during Covid a dataset has been collected where people from different countries involved themselves in various activities to overcome the personality changes they faced during the hard time.
 - Engaged in religious/spiritual activities
 - Improved healthy lifestyle behaviors
