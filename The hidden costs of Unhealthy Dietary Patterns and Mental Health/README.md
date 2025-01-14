@@ -2,7 +2,7 @@
 
 ### Scientific Conclusion
 
-#### Objective:
+#### <ins>Objective</ins>:
 Investigated the relationship between sugar intake (Sugar_2021) and anxiety disorders prevalence (AnxietyDisorders_2021) using Bayesian regression.
 
 #### Key Findings:
